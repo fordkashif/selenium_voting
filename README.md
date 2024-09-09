@@ -52,7 +52,7 @@ To run this project, you will need:
    ```
 
 4. **Download ChromeDriver**:
-   - Download the version of **ChromeDriver** that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+   - Download the version of **ChromeDriver** that matches your version of Chrome from [here](https://googlechromelabs.github.io/chrome-for-testing/#stable).
    - Place `chromedriver.exe` in the `webdriver` folder.
 
 5. **Edit the script if necessary**:
