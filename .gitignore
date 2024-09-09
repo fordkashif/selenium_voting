@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+selenium_env/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# ChromeDriver or any WebDriver binaries (optional, you can include it if you want it to be versioned)
+webdriver/chromedriver.exe
+
+# MacOS folder attributes
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.manifest
+*.spec
+
+# pipenv files (if applicable)
+Pipfile
+Pipfile.lock
+
+# Cache files
+*.cache
+*.par
+*.whl
+*.zip
+*.tar.gz
+__pycache__/
